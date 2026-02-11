@@ -14,7 +14,6 @@ A production-ready mini web application built with React, Node.js, Express, and 
 - **Node.js + Express** - Server framework
 - **MongoDB + Mongoose** - Database and ODM
 - **JWT** - JSON Web Tokens for authentication
-- **bcryptjs** - Password hashing
 - **express-validator** - Input validation
 
 ## 📁 Project Structure
